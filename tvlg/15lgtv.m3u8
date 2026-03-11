@@ -1,0 +1,649 @@
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTINF:0 tvg-rec="0",Delta TV AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/18214/index.m3u8
+#EXTINF:0 tvg-rec="3",H1 HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/601/index.m3u8
+#EXTINF:0 tvg-rec="3",H2 HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/603/index.m3u8
+#EXTINF:0 tvg-rec="3",Armenia TV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/605/index.m3u8
+#EXTINF:0 tvg-rec="3",Yerkir Media HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/608/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV FHD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/609/index.m3u8
+#EXTINF:0 tvg-rec="3",Shoghakat HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/613/index.m3u8
+#EXTINF:0 tvg-rec="0",SONGTV
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/300/index.m3u8
+#EXTINF:0 tvg-rec="3",Armenia Premium HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/273/index.m3u8
+#EXTINF:0 tvg-rec="3",Azatutyun TV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/274/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV LifeHack HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/275/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Xaxaliq HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/276/index.m3u8
+#EXTINF:0 tvg-rec="3",Comedy AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/277/index.m3u8
+#EXTINF:0 tvg-rec="3",Tuntunik AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/279/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Hay TV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/280/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Tava HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/281/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Kinoman HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/282/index.m3u8
+#EXTINF:0 tvg-rec="3",Cineman HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/283/index.m3u8
+#EXTINF:0 tvg-rec="3",Jan TV AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/285/index.m3u8
+#EXTINF:0 tvg-rec="3",Hay Kino AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/286/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Fitness HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/287/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Muzzone HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/288/index.m3u8
+#EXTINF:0 tvg-rec="3",ATV Bazmoc TV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/289/index.m3u8
+#EXTINF:0 tvg-rec="3",21TV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/602/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15112/index.m3u8
+#EXTINF:0 tvg-rec="0",H2 AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15204/index.m3u8
+#EXTINF:0 tvg-rec="0",Kentron HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15205/index.m3u8
+#EXTINF:0 tvg-rec="0",ATV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15206/index.m3u8
+#EXTINF:0 tvg-rec="0",5TV AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15208/index.m3u8
+#EXTINF:0 tvg-rec="0",Yerkir Media AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15209/index.m3u8
+#EXTINF:0 tvg-rec="0",Nor Hayastan AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15210/index.m3u8
+#EXTINF:0 tvg-rec="0",21TV AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15211/index.m3u8
+#EXTINF:0 tvg-rec="0",FreeNews AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15212/index.m3u8
+#EXTINF:0 tvg-rec="0",Shoghakat AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15213/index.m3u8
+#EXTINF:0 tvg-rec="0",Arma TV AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15214/index.m3u8
+#EXTINF:0 tvg-rec="0",5TV Plus HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15488/index.m3u8
+#EXTINF:0 tvg-rec="0",Nur TV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15489/index.m3u8
+#EXTINF:0 tvg-rec="0",Armenian Business News HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15490/index.m3u8
+#EXTINF:0 tvg-rec="0",1 Lurer HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15491/index.m3u8
+#EXTINF:0 tvg-rec="0",Horizon TV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15497/index.m3u8
+#EXTINF:0 tvg-rec="0",Kotayk TV AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15498/index.m3u8
+#EXTINF:0 tvg-rec="0",Tsayg TV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15499/index.m3u8
+#EXTINF:0 tvg-rec="0",Lori TV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15500/index.m3u8
+#EXTINF:0 tvg-rec="0",FreeNews HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15501/index.m3u8
+#EXTINF:0 tvg-rec="0",Armount TV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15502/index.m3u8
+#EXTINF:0 tvg-rec="0",Fortuna TV HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15503/index.m3u8
+#EXTINF:0 tvg-rec="0",ArmToon HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15504/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports HD AM
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15507/index.m3u8
+#EXTINF:0,Bollywood HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/239/index.m3u8
+#EXTINF:0,ZEE TV
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/1001/index.m3u8
+#EXTINF:0,ИНДИЙСКОЕ КИНО
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/146/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Индия
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/13090/index.m3u8
+#EXTINF:0,VIP Premiere
+#EXTGRP:TV			
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/202/index.m3u8
+#EXTINF:0,VIP Comedy
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/200/index.m3u8
+#EXTINF:0 tvg-rec="7",VIP Megahit
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/201/index.m3u8
+#EXTINF:0,Еврокино
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/549/index.m3u8
+#EXTINF:0 tvg-rec="7",Комедия
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/733/index.m3u8
+#EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/4000/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино UHD 4K
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/5004/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Ultra 4K
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11045/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Кино 4K
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11114/index.m3u8
+#EXTINF:0,Киносат
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2121/index.m3u8
+#EXTINF:0 tvg-rec="3",Cinéma
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/5051/index.m3u8
+#EXTINF:0 tvg-rec="0",Синема HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/19233/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинопоказ HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2439/index.m3u8
+#EXTINF:0 tvg-rec="3",КИНО ТВ
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/732/index.m3u8
+#EXTINF:0,КИНО ТВ HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2097/index.m3u8
+#EXTINF:0 tvg-rec="7",Кинокомедия
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/145/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/7248/index.m3u8
+#EXTINF:0,КИНОМИКС
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/509/index.m3u8
+#EXTINF:0 tvg-rec="0",Киномикс HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/7249/index.m3u8
+#EXTINF:0,КИНОСВИДАНИЕ
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/728/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносвидание HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/7245/index.m3u8
+#EXTINF:0,КИНОСЕМЬЯ
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/125/index.m3u8
+#EXTINF:0 tvg-rec="0",Киносемья HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/7244/index.m3u8
+#EXTINF:0,Кинохит
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/516/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинохит HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/7250/index.m3u8
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/224/index.m3u8
+#EXTINF:0,Киноужас HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2056/index.m3u8
+#EXTINF:0 tvg-rec="3",Страшное HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2567/index.m3u8
+#EXTINF:0,НСТ
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/726/index.m3u8
+#EXTINF:0,Шокирующее
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/913/index.m3u8
+#EXTINF:0,Комедийное HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/912/index.m3u8
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/164/index.m3u8
+#EXTINF:0 tvg-rec="0",Мужское Кино HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10045/index.m3u8
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/904/index.m3u8
+#EXTINF:0 tvg-rec="7",Premiere HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11094/index.m3u8
+#EXTINF:0 tvg-rec="7",Premium HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11095/index.m3u8
+#EXTINF:0 tvg-rec="7",Paradox HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11098/index.m3u8
+#EXTINF:0 tvg-rec="7",Thriller HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11099/index.m3u8
+#EXTINF:0 tvg-rec="7",Paradise HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11100/index.m3u8
+#EXTINF:0 tvg-rec="0",Премиальное HD 50
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10017/index.m3u8
+#EXTINF:0 tvg-rec="3",Премиальное FHD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2410/index.m3u8
+#EXTINF:0,Hollywood HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/209/index.m3u8
+#EXTINF:0 tvg-rec="3",Блокбастер HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2436/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Comedy
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10003/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Adventure
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10000/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Family
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10004/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Fantasy
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10005/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Melodrama
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10006/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Mystic
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10007/index.m3u8
+#EXTINF:0 tvg-rec="7",VF VHS MIX
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10009/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Premiere
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10052/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Катастрофы
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10080/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Marvel
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10081/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Comics
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/13092/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Военные
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10082/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Боевик
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10087/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Detective
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11120/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Fantastic
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11121/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Disney Movie
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15010/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11004/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Top
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11005/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Action
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11006/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Thriller
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11007/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Melodrama
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11008/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Marvel
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11009/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Ужасы
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11010/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Комедия
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11011/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan VHS
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11012/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Катастрофы
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15106/index.m3u8
+#EXTINF:0 tvg-rec="0",VeleS 60fps
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/31637/index.m3u8
+#EXTINF:0 tvg-rec="0",Z! Channel HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/14134/index.m3u8
+#EXTINF:0 tvg-rec="0",Z! Comedy HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/14135/index.m3u8
+#EXTINF:0 tvg-rec="0",Z! Crime HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/14136/index.m3u8
+#EXTINF:0 tvg-rec="0",Z! Horror HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/14137/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Cyber HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/20220/index.m3u8
+#EXTINF:0 tvg-rec="7",Hollywood
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/557/index.m3u8
+#EXTINF:0 tvg-rec="0",Suspense HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2049/index.m3u8
+#EXTINF:0 tvg-rec="3",Хит HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2438/index.m3u8
+#EXTINF:0 tvg-rec="3",FAN
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/734/index.m3u8
+#EXTINF:0 tvg-rec="0",FAN HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/16021/index.m3u8
+#EXTINF:0 tvg-rec="0",VF New Year
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15522/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Новогодний
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/17035/index.m3u8
+#EXTINF:0 tvg-rec="0",VF С новым годом!
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15524/index.m3u8
+#EXTINF:0 tvg-rec="3",Камеди HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2441/index.m3u8
+#EXTINF:0,TV 1000
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/132/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000 HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/6387/index.m3u8
+#EXTINF:0,TV 1000 Action
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/131/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 1000 Action HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/6386/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino Comedy HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/31764/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/31765/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino Megahit HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/14141/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino Action
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/12024/index.m3u8
+#EXTINF:0,TV XXI
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/525/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 5 HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2177/index.m3u8
+#EXTINF:0,Матч ТВ
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/535/index.m3u8
+#EXTINF:0,Матч! HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/212/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! HD 50
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10020/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! FHD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2413/index.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/225/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра FHD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2406/index.m3u8
+#EXTINF:0,Матч! Футбол 1
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/124/index.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/222/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! Футбол 1 HD 50
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10015/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2407/index.m3u8
+#EXTINF:0,Матч! Футбол 2
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/530/index.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/211/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч футбол 2 HD 50
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10027/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2420/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/522/index.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/206/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч Футбол 3 HD 50
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10016/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2408/index.m3u8
+#EXTINF:0,МАТЧ ПРЕМЬЕР HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/220/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ Премьер HD 50
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10021/index.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/207/index.m3u8
+#EXTINF:0,МАТЧ! СТРАНА
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/107/index.m3u8
+#EXTINF:0,Матч! Планета
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/123/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Прайм Спорт
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/20135/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Спорт HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/20138/index.m3u8
+#EXTINF:0,Viasat Sport HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2007/index.m3u8
+#EXTINF:0,Setanta Sports 2
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/270/index.m3u8
+#EXTINF:0,Setanta Sports HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/271/index.m3u8
+#EXTINF:0,Setanta Sports Ukraine HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/272/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2399/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Eurasia HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15183/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Eurasia+
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15184/index.m3u8
+#EXTINF:0 tvg-rec="3",Телеканал Футбол
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/5050/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 1
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/1109/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 2
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/1110/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 3 HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/290/index.m3u8
+#EXTINF:0,UFC ТВ
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2000/index.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/228/index.m3u8
+#EXTINF:0,Eurosport Gold HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2002/index.m3u8
+#EXTINF:0,Архыз 24
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/1049/index.m3u8
+#EXTINF:0,ACB TV
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/868/index.m3u8
+#EXTINF:0,Первый HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/204/index.m3u8
+#EXTINF:0,Россия HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/205/index.m3u8
+#EXTINF:0,Пятница
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/503/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница! HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/5031/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15116/index.m3u8
+#EXTINF:0,ТНТ HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/237/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ4 HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/6370/index.m3u8
+#EXTINF:0,ТВ3
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/508/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ3 HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/5033/index.m3u8
+#EXTINF:0,Че
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/513/index.m3u8
+#EXTINF:0,РЕН ТВ
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/128/index.m3u8
+#EXTINF:0 tvg-rec="3",Рен ТВ HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2024/index.m3u8
+#EXTINF:0,СТС
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/506/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/6303/index.m3u8
+#EXTINF:0,СТС Kids HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2001/index.m3u8
+#EXTINF:0 tvg-rec="0",2x2 HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/31913/index.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/541/index.m3u8
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/223/index.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/723/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Cartoon
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/10002/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/143/index.m3u8
+#EXTINF:0,Cartoon Network HD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/2011/index.m3u8
+#EXTINF:0,VF Disney
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/524/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Скуби-Ду
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/17007/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Симпсоны
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15101/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Cartoons Big
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/11003/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Симпсоны FHD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15111/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Пиксар FHD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15092/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Дисней FHD
+#EXTGRP:TV
+http://dbb8ff8e1.kazaktelekom.com/iptv/U3AY28ASBL9VEDUGDY8RY35Y/15093/index.m3u8
